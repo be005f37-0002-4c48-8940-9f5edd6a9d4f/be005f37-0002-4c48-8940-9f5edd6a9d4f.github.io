@@ -1,5 +1,3 @@
-# Preferred Bulgarian products
-
 The preferred Bulgarian products of this account holder.
 
 ## Food products
